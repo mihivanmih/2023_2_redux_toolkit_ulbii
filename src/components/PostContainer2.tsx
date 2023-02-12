@@ -10,7 +10,7 @@ const PostContainer2 = () => {
         <div>
             {isLoading && <div>Загрузка...</div>}
             {error && <div>Ошибка!</div>}
-            {posts && posts.map(post => <PostItem key={post.id} post={post} />)}
+            {/*{posts && posts.map(post => <PostItem key={post.id} post={post} />)}*/}
         </div>
     );
 };

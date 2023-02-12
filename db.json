@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "tretrte",
+      "author": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 6,
+      "title": "gtytryrt",
+      "author": "typicode"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

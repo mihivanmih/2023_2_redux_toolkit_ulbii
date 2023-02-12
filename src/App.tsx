@@ -26,7 +26,7 @@ const App = () => {
             {/*{JSON.stringify(users, null, 2)}*/}
 
             <PostContainer />
-            <PostContainer2 />
+            {/*<PostContainer2 />*/}
         </div>
     );
 };
